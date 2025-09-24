@@ -29,9 +29,9 @@ body {
   margin-bottom: 30px;
 }
 .sidebar .perfil img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
+  width: 120px;       /* ancho */
+  height: 150px;      /* altura más larga */
+  border-radius: 60% / 50%; /* óvalo */
   border: 3px solid #00aaff;
   object-fit: cover;
   margin-bottom: 15px;
